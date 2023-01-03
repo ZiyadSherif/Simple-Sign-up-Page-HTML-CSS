@@ -1,0 +1,53 @@
+body {
+    background-color: whitesmoke;
+}
+
+form {
+    width: 200px;
+    background-color: wheat;
+    margin: 200px;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+h2 {
+    text-indent: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form .Name {
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+}
+form .Email {
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+}
+form .Password {
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 20px;
+}
+
+form .Submit {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 20px;
+}
+
+form .Submit input {
+    border-radius: 7px;
+    color: white;
+    background-color: black;
+    width: 170px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span {
+    width: fit-content;
+    margin: 65px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #c5c5c5;
+    border-radius: 10px;
+    padding: 5px;
+}
